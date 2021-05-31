@@ -1,0 +1,57 @@
+{
+    "command": "$",
+    "commands": [
+        {
+            "command": "home",
+            "description": "This command will show home of GAAN LLC",
+            "output": "ah ah ah",
+            "commands": [
+                {
+                    "command": "home1",
+                    "output": "ah ah ah1",
+                    "commands": [
+                        {
+                            "command": "home2",
+                            "output": "ah ah ah2",
+                            "commands": [
+                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "command": "about",
+            "description": "This command will show about GAAN LLC",
+            "output": "",
+            "commands": [
+
+            ]
+        },
+        {
+            "command": "faq",
+            "description": "This command will show faq GAAN LLC",
+            "output": "",
+            "commands": [
+
+            ]
+        },
+        {
+            "command": "help",
+            "description": "This command will help you about commands",
+            "output": "",
+            "commands": [
+
+            ]
+        },
+        {
+            "command": "version",
+            "description": "This command will show you current version of 'Virtual' terminal",
+            "output": "",
+            "commands": [
+
+            ]
+        }
+    ]
+}
